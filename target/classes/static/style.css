@@ -1,0 +1,15 @@
+
+
+.sidebar {
+    position: fixed;
+    height: 100%;
+}
+
+.row-table{
+    background: #333333;
+    min-height: 100%;
+    height: 100%;
+}
+
+
+
